@@ -1,4 +1,6 @@
-# competitive_programming_journey
+# Competitive Programming Journey
+
+This repository aims to contain all my study and journey in competitive programming, I hope it will be of some help to you :)
 
 ## Before anything i would like to give special thanks to:
 
