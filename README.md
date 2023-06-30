@@ -1,12 +1,17 @@
 # competitive_programming_journey
 
-Here is my profiles on some online jugdes:
+## Before anything i would like to give special thanks to:
+
+- [Márcio Soussa](https://www.linkedin.com/in/marcio-soussa/?originalSubdomain=br), thank you for your support and guidance in my competitive programming journey. Your encouragement and mentorship have been invaluable.
+- [Marcos Lapa](https://github.com/marcoslapa), thank you for your support and guidance in my competitive programming journey. Your encouragement and mentorship have been invaluable.
+
+## Here is my profiles on some online jugdes:
 
 - [Orlando Mota - BeeCrowd](https://www.beecrowd.com.br/judge/pt/profile/526478).
 - [Orlando Mota - CodeForces](https://codeforces.com/profile/orlandomota).
 - [Orlando Mota - LeetCode](https://leetcode.com/orlandomota/).
 
-Marathons I participated:
+## Marathons I participated:
 
 - [Maratona SBC - 2021](https://maratona.sbc.org.br/hist/2021/primeira-fase/reportsbr2021/score.html#), 9 lugar,"teambrba6/BR" time Senai Cimatic, "Os Omi":
 
