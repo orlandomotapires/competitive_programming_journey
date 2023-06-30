@@ -24,7 +24,7 @@ This repository aims to contain all my study and journey in competitive programm
 </div>
 <h4 align="center">Figure 1 - Placement at <a href="https://maratona.sbc.org.br/">SBC</a> 2021 first fase.</h4>
 
-- [Maratona SBC - 2022](https://maratona.sbc.org.br/hist/2022/primfase22/reports/brbr/Score.html#), 4 lugar,"teambrbalf002/BR" time Senai Cimatic, "BAO":
+- [Maratona SBC - 2022](https://maratona.sbc.org.br/hist/2022/primfase22/reports/brbr/Score.html#), 4 lugar,"teambrbalf002/BR" time Senai Simatec, "BAO":
 
 <div align="center">
 	<a href="">
