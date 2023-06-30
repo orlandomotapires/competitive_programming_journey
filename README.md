@@ -1,6 +1,10 @@
 # competitive_programming_journey
 
-Here is my journey on competitive programming
+Here is my profiles on some online jugdes:
+
+- [Orlando Mota - BeeCrowd](https://www.beecrowd.com.br/judge/pt/profile/526478).
+- [Orlando Mota - CodeForces](https://codeforces.com/profile/orlandomota).
+- [Orlando Mota - LeetCode](https://leetcode.com/orlandomota/).
 
 Marathons I participated:
 
