@@ -17,7 +17,7 @@ Marathons I participated:
 
 <div align="center">
 	<a href="">
-	<img height = "20em" src = "https://github.com/orlandomotapires/competitive_programming_journey/assets/80331468/8b3101df-196a-4f34-9070-59b49b198fa3" />
+	<img height = "20em" src = "https://github.com/orlandomotapires/competitive_programming_journey/assets/80331468/b980aee7-0fdd-4cb1-9064-a4b7783480c9" />
     </a>
 </div>
 <h4 align="center">Figure 1 - Placement at <a href="https://maratona.sbc.org.br/">SBC</a> 2020 first fase.</h4>
