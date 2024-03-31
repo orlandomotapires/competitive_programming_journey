@@ -24,7 +24,7 @@ ll t = 1;
 int main(){
 
     while(t--){
-
+        
     }
     return 0;
 }
