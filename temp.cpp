@@ -19,12 +19,11 @@ typedef long long ll;
 const ll MAX = 1e7;
 
 // Variables ---
-ll t = 1;
+int n, x;
+int prices[MAX];
+int pages[MAX];
 
 int main(){
-
-    while(t--){
-
-    }
+    
     return 0;
 }
